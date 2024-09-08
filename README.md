@@ -60,7 +60,8 @@ Experience the OncoCareAi platform in action by visiting the hosted website:
     ```bash
     npm install
 ## Usage
-   Start the development server
-    ```bash
-    npm start
+  Start the development server
+  ```bash
+   npm start
+
 Open your browser and go to http://localhost:3000 to access the application.
