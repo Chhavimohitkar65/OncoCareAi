@@ -1,7 +1,6 @@
 # 🩺 OncoCareAi
 
-![OncoCareAi Banner](https://github.com/user-attachments/assets/7cadbd8e-5797-4469-a9fb-cc955c70db4b)
-
+https://github.com/user-attachments/assets/7cadbd8e-5797-4469-a9fb-cc955c70db4b
 OncoCareAi is a comprehensive healthcare solution 💻, designed to enhance hospital and patient management 🏥. It provides robust tools and features tailored for administrators, hospitals, and users within a healthcare platform.
 
 ## 🌟 Key Features
